@@ -1,0 +1,61 @@
+.logo {
+    margin: 0 auto;
+    height: auto;
+    width: auto;
+    text-align: -webkit-center;
+}
+
+.arama {
+    text-align: center;
+    background-color: rgb(205, 219, 214);
+    margin-left: 70px;
+    margin-right: 70px;
+}
+
+.soldiv {
+    background-color: #7ee5da;
+    width: 450px;
+    margin-top: 5px;
+    margin-left: 70px;
+    margin-right: auto;
+    text-align: center;
+    padding-top: 12px;
+    padding-bottom: 10px;
+    float: left;
+    height: 58px;
+}
+
+.ortadiv {
+    background-color: #70ccc2;
+    float: left;
+    width: 300px;
+    margin-top: 5px;
+    margin-left: 2px;
+    margin-right: auto;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 1px;
+    font-size: 13px;
+    height: 74px;
+}
+
+.sagdiv {
+    background-color: #62b3aa;
+    float: left;
+    width: 456px;
+    margin-top: 5px;
+    margin-left: 2px;
+    margin-right: auto;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 1px;
+    font-size: 13px;
+    height: 74px;
+}
+
+.altyazi {
+    font-size: small;
+    margin-left: 600px;
+    margin-top: 20px;
+    float: left;
+}
